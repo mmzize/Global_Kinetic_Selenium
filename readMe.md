@@ -15,5 +15,5 @@
 1. Install The Prerequisites mentioned above
 2. Clone the project (if not already)
 3. Allow the Maven dependencies to be all downloaded and indexed
-4. On the packages on the left - Open the Tests package and Right click Test_Runner
+4. On the packages on the left - Open the Tests package and Right click Test_Runner or you can open terminal and run mvn clean test -PE2E
 5. The report will be generated and be stored on the new folder named SwagLabs
